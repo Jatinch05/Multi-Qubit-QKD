@@ -85,3 +85,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""Conclusion
+This simulation demonstrates a simplified workflow:
+- Simulated QKD Key Generation:  
+  Through entangled qubit pairs with chaotic rotations.
+- AES Encryption:  
+  Using a key derived from quantum measurements.
+- CP-ABE Simulation:  
+  Enforcing attribute-based access control.
+Though simplified, this proof-of-concept captures the core ideas of integrating QKD with CP-ABE for cloud data security. It provides a foundation for further development towards a fully robust cryptographic system."""
